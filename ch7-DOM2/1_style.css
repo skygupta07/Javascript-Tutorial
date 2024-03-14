@@ -1,0 +1,8 @@
+#sqBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: rgb(202, 222, 222);
+    text-align: center;
+    border-radius: 10px;
+}

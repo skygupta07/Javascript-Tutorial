@@ -1,0 +1,27 @@
+#knowledgeBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    background-color: crimson;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+#btn2{
+    color: white;
+    background-color: chocolate;
+    border: 2px solid black;
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    background-color:rgb(159, 57, 125);
+    border-radius: 50px;
+    margin: 20px;
+}

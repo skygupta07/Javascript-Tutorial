@@ -1,0 +1,49 @@
+-> we can both write and run code on chrome console
+cmd + k   clear console
+
+-> html basically helps to join our js with chrome
+-> html has direct connection with the browser and js with console.
+
+-> script tag is ideally written inside body tag at the end 
+
+-> console.log karte jao
+-> console.log wali cheeze console mai hi to jaake dikhengi..
+
+-> javascript dynamically typed language hoti hai... matlab you don't need to specify 
+the data type of variable
+
+=> let const var
+var -> variable can be redeclared and updated. global scope variable
+let -> variable cannot be redeclared but here it can be updated. A block scope variable
+const -> variable cannot be redeclared or cannot be updated. A block scope variable
+
+-> if you just initialise the variable then bydefault yaha undefined ho jaega...
+
+-> two data types in js-> premptive (ussbbnn -> undefined string symbol boolean bigint number null)
+or non premptive (objects)
+
+kewal ek variable ko un initialise karke chod diya to ab uski value bhi undefined hogi
+and uska data type bhi undefined hoga.....
+
+null means absence of an object     null ka data type is object itself....
+-> arrays aur function objects ki category mai aate hai....
+
+---object means collection of different variables...
+
+-> aap const variable ko update nahi kar sakte but let ko aur const object ko update kar 
+sakte ho....
+
+-- string ko add karoge to concatenate ho jaega....  "123" + "123" = 123123
+
+
+
+
+
+
+
+
+
+
+
+
+

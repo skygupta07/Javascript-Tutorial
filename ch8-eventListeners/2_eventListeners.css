@@ -1,0 +1,20 @@
+#knowledgeBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    background-color: rgb(130, 51, 221);
+    border-radius: 50px;
+    margin: 20px;
+}
+
+button{
+    color: white;
+    background-color: chocolate;
+    border: 2px solid black;
+}
+
+
+
+
